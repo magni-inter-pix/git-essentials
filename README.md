@@ -1,8 +1,5 @@
-# git-essentials
-jf mdqljfmkdsqj fmkjdsq fj dsqjddfjsql fjdsj mfdsq
-dfhghf
-v hgdhg
-hghfh gdhdggdhgh
+# git-essentials / Git For Evertybode
+this is a course to teach you how to use everyday git
 
 ## Deployment notesg
 h hgfh ggfh g
