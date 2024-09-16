@@ -1,4 +1,4 @@
-# git-essentials / Git For Evertybode
+# git-essentials / Git For Evertybody
 this is a course to teach you how to use everyday git
 
 ## Deployment notesg
